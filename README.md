@@ -1,4 +1,4 @@
-# Standalone-Application-Installers-User-Guide
+# Standalone Application-Installers
 The need for high-fidelity modelling of radiation detectors to perform reliable detector performance optimization using Monte Carlo simulations requires to accurately simulate the light transport in the scintillator and the light collection by the photodetector. Within the “Imaging Physics Modeling and Simulation Tools” project, we implement our well validated model of crystal reflectance computed from 3D crystal surface measurement in an opensource standalone application to allow researchers to generate fully customized crystal reflectance look-up-tables (LUTs) to be used in optical Monte Carlo simulation.
 
 The LUTDavisModel standalone is a user-friendly tool for researchers to generate LUTs in their specific scintillator-coupling-reflector configuration and to use them in GATE optical Monte Carlo simulation.
